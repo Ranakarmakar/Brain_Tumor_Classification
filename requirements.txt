@@ -2,7 +2,7 @@ tensorflow==2.7.0
 keras==2.7.0
 numpy==1.19.5
 streamlit==1.2.0
-skimage
+skimage>=0.18
 PIL
 classify
 time
